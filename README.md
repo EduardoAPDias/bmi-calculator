@@ -1,32 +1,57 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # BMI Calculator 💪
 
-## Our Goal
+> Projeto desenvolvido durante o curso **The Complete Flutter Development Bootcamp** da App Brewery.
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+---
 
+## 🇧🇷 Português
 
-## What you will create
+### Sobre o projeto
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+Calculadora de Índice de Massa Corporal (IMC) inspirada no design de [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). O foco do projeto é a criação de interfaces customizadas no Flutter, indo além dos widgets padrão.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+### O que foi praticado
 
-## What you will learn
+- Temas globais com `ThemeData` para identidade visual consistente
+- Navegação entre telas com `Routes` e `Navigator`
+- Refatoração e extração de widgets
+- Passagem de funções como parâmetros
+- Detecção de gestos com `GestureDetector`
+- Paleta de cores customizada com códigos hex
+- `Enums` e operador ternário em Dart
+- Composição de widgets vs. herança
+- Diferença entre `const` e `final` no Dart
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+### Tecnologias
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+---
+
+## 🇺🇸 English
+
+### About
+
+Body Mass Index Calculator inspired by the design of [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). This project focuses on building custom Flutter UIs beyond the default widget styles.
+
+### What was practiced
+
+- Global theming with `ThemeData` for consistent branding
+- Multi-screen navigation with `Routes` and `Navigator`
+- Widget extraction and refactoring
+- Passing functions as parameters
+- Gesture detection with `GestureDetector`
+- Custom color palettes using hex codes
+- Dart `Enums` and ternary operator
+- Widget composition vs. inheritance
+- Difference between `const` and `final` in Dart
+
+### Tech stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+*Part of my Flutter learning journey — [The Complete Flutter Development Bootcamp](https://www.appbrewery.co/)*
