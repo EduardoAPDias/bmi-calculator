@@ -54,4 +54,4 @@ Body Mass Index Calculator inspired by the design of [Ruben Vaalt](https://dribb
 
 ---
 
-*Part of my Flutter learning journey — [The Complete Flutter Development Bootcamp](https://www.udemy.com/share/101Xwi3@bWtSquI8y6hx2snbYYDI_5-E4jOb-4V3THf5FJgoSNWfWke58DXKr6T2VqzSmVMY/))
+*Part of my Flutter learning journey — [The Complete Flutter Development Bootcamp](https://www.udemy.com/share/101Xwi3@bWtSquI8y6hx2snbYYDI_5-E4jOb-4V3THf5FJgoSNWfWke58DXKr6T2VqzSmVMY/)
